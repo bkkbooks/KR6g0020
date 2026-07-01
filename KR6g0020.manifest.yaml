@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6g0020/v1
+canonical_location: https://kanripo.org/bkk/KR6g0020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 科南本涅槃經
+  identifiers:
+    alt_id:
+    - X37n0663
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0663.xml
+    old_id: X37n0663
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:a7e59c5dbcf8748662e3055254b302fd045ce96cb162267e3dd7085a7a138efd'}
+  - {seq: 1, filename: KR6g0020_001.yaml, hash: 'sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:2dab8c7817bbbdd0bdc637ab487117aa215847bf106fc6139c66d61a3d7178a7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6g0020_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 663-A 科南本涅槃經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6g0020_X_000-mulu-2
+    span:
+    - front
+    - 466
+    - 466
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6g0020_X_000-mulu-3
+    span:
+    - front
+    - 1072
+    - 1072
+  label: 科南本大般涅槃經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0020_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 34
+  label: 科南本大般涅槃經
+  type: juan
+  level: 1
+hash: sha256:c1170731dd25beae6debcc3b5bbaf69f9377307463b5ecb861132ce98bbf3dd7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

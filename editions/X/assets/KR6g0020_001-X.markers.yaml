@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR6g0020/X/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6g0020_X_001-0628b05, ed: X, 'n': 0628b05}
+  - {type: line-break, offset: 0, content: '', id: KR6g0020_X_001-0003b02, ed: R059, 'n': 0003b02}
+  - {type: xml-element, offset: 0, content: '', id: KR6g0020_X_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: indent, offset: 1, content: 　, id: KR6g0020_X_001-bkkind1}
+  - {type: indent, offset: 3, content: 　, id: KR6g0020_X_001-bkkind2}
+  - {type: indent, offset: 5, content: 　, id: KR6g0020_X_001-bkkind3}
+  - {type: line-break, offset: 7, content: '', id: KR6g0020_X_001-0628b06, ed: X, 'n': 0628b06}
+  - {type: line-break, offset: 7, content: '', id: KR6g0020_X_001-0003b03, ed: R059, 'n': 0003b03}
+  - {type: indent, offset: 7, content: 　, id: KR6g0020_X_001-bkkind4}
+  - {type: indent, offset: 9, content: 　, id: KR6g0020_X_001-bkkind5}
+  - {type: indent, offset: 11, content: 　, id: KR6g0020_X_001-bkkind6}
+  - {type: xml-element, offset: 13, content: '', id: KR6g0020_X_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  - {type: line-break, offset: 13, content: '', id: KR6g0020_X_001-0628b07, ed: X, 'n': 0628b07}
+  - {type: line-break, offset: 13, content: '', id: KR6g0020_X_001-0003b04, ed: R059, 'n': 0003b04}
+  - {type: xml-element, offset: 13, content: '', id: pX37p0628b0701, name: p, role: open, attrs: {'xml:id': pX37p0628b0701, style: 'margin-left:2em'}}
+  - {type: punctuation, offset: 27, content: ，, id: KR6g0020_X_001-bkkpn1}
+  - {type: line-break, offset: 30, content: '', id: KR6g0020_X_001-0628b08, ed: X, 'n': 0628b08}
+  - {type: line-break, offset: 30, content: '', id: KR6g0020_X_001-0003b05, ed: R059, 'n': 0003b05}
+  - {type: variant, offset: 33, length: 1, content: 已, 卍續: 巳}
+  - {type: punctuation, offset: 34, content: 。, id: KR6g0020_X_001-bkkpn2}
+  - {type: xml-element, offset: 34, content: '', id: pX37p0628b0701_end, name: p, role: close, attrs: {'xml:id': pX37p0628b0701, style: 'margin-left:2em'}}
+  back: []
+hash: sha256:7c8149ade2e8264ea3f6a9f2f803cc5a96077cfa11231794723413232346d191

@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6g0020/X/v1
+canonical_location: https://kanripo.org/bkk/KR6g0020/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 科南本涅槃經
+  identifiers:
+    krp: KR6g0020
+    cbeta: X37n0663
+    cbeta_old_id: X37n0663
+    authorityid: CA0005320
+    json_key: X0663
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0663.xml
+    old_id: X37n0663
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0020_000-X.yaml, hash: 'sha256:f19ce97e516c9d59ea874e2b01dd2900ef3e889a7442814a5613d26c45bd7d80'}
+  - {seq: 1, filename: KR6g0020_001-X.yaml, hash: 'sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0020_000-X.markers.yaml, hash: 'sha256:b976c8aec4ec60b31ded267f0d5677ec40513444d214fdcf32bcaa32fe7e5898'}
+  - {seq: 1, role: markers, filename: assets/KR6g0020_001-X.markers.yaml, hash: 'sha256:7c8149ade2e8264ea3f6a9f2f803cc5a96077cfa11231794723413232346d191'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6g0020_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 663-A 科南本涅槃經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6g0020_X_000-mulu-2
+    span:
+    - front
+    - 466
+    - 466
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6g0020_X_000-mulu-3
+    span:
+    - front
+    - 1072
+    - 1072
+  label: 科南本大般涅槃經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0020_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 34
+  label: 科南本大般涅槃經
+  type: juan
+  level: 1
+hash: sha256:f609b9b8c5c97d98e2e0293daad12276070eca5995b72682420e046538126abc

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6g0020/x/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 元峨眉師正排科武林可度重訂卍云科經本大率同于重訂交科本仍單載序文而已
+  hash: sha256:df524d545510357b31e962d6c2144d3c9d8c73ad969e96d1b4f738305761b0f2
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 科南本大般涅槃經, id: KR6g0020_X_001-juan-start, juan_n: '001', jhead: 科南本大般涅槃經}
+metadata:
+  title: 科南本涅槃經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0663.xml
+    old_id: X37n0663
+hash: sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe
