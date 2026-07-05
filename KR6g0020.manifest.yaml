@@ -21,10 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:a7e59c5dbcf8748662e3055254b302fd045ce96cb162267e3dd7085a7a138efd'}
+  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:f19ce97e516c9d59ea874e2b01dd2900ef3e889a7442814a5613d26c45bd7d80'}
   - {seq: 1, filename: KR6g0020_001.yaml, hash: 'sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:2dab8c7817bbbdd0bdc637ab487117aa215847bf106fc6139c66d61a3d7178a7'}
+  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:bb7df6e4315909b5d762e0bab4164b4af464b4ea53f4a5ed397498c60ed27bdd'}
+  - {seq: 1, role: markers, filename: assets/KR6g0020_001.markers.yaml, hash: 'sha256:f50537a59860c238bdb2a562984961984b535e4f61ff74955cb63892006fc206'}
 table_of_contents:
 - ref:
     seq: 0
@@ -66,7 +67,4 @@ table_of_contents:
   label: 科南本大般涅槃經
   type: juan
   level: 1
-hash: sha256:c1170731dd25beae6debcc3b5bbaf69f9377307463b5ecb861132ce98bbf3dd7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:808da1956047971972f91ffb1fad674d97c3a61b8d8f8f98818afc94608c732a
