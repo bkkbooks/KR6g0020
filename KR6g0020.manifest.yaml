@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6g0020/v1
 canonical_location: https://kanripo.org/bkk/KR6g0020/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 科南本涅槃經
   identifiers:
@@ -21,10 +21,10 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:f19ce97e516c9d59ea874e2b01dd2900ef3e889a7442814a5613d26c45bd7d80'}
+  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:59209f6726619f3b30bc8c5f4edc47b25834bd00794458b3423533c7ddfdd7fa'}
   - {seq: 1, filename: KR6g0020_001.yaml, hash: 'sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:bb7df6e4315909b5d762e0bab4164b4af464b4ea53f4a5ed397498c60ed27bdd'}
+  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:56714a472f3d5482fb78f084a6ea04cbfe5d60d286051e19c924de00923ed9de'}
   - {seq: 1, role: markers, filename: assets/KR6g0020_001.markers.yaml, hash: 'sha256:f50537a59860c238bdb2a562984961984b535e4f61ff74955cb63892006fc206'}
 table_of_contents:
 - ref:
@@ -67,4 +67,7 @@ table_of_contents:
   label: 科南本大般涅槃經
   type: juan
   level: 1
-hash: sha256:808da1956047971972f91ffb1fad674d97c3a61b8d8f8f98818afc94608c732a
+hash: sha256:c61dcb3c637b681099064c21df6306b355f225f600696b675d82d24e951e2e9c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
