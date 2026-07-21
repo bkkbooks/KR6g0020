@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0020_000-X.yaml, hash: 'sha256:f19ce97e516c9d59ea874e2b01dd2900ef3e889a7442814a5613d26c45bd7d80'}
+  - {seq: 0, filename: KR6g0020_000-X.yaml, hash: 'sha256:6e3db241344eed0a0fd939c4f3e74f0b2c5c81f56862e0ea62e2effbe841edeb'}
   - {seq: 1, filename: KR6g0020_001-X.yaml, hash: 'sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0020_000-X.markers.yaml, hash: 'sha256:b976c8aec4ec60b31ded267f0d5677ec40513444d214fdcf32bcaa32fe7e5898'}
+  - {seq: 0, role: markers, filename: assets/KR6g0020_000-X.markers.yaml, hash: 'sha256:b8b03b9f449253cebd95619aa6e37a167fe86e20617c0a9c9b869a90fe234b08'}
   - {seq: 1, role: markers, filename: assets/KR6g0020_001-X.markers.yaml, hash: 'sha256:7c8149ade2e8264ea3f6a9f2f803cc5a96077cfa11231794723413232346d191'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6g0020_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 663-A 科南本涅槃經序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0020_X_000-mulu-2
     span:
-    - front
+    - body
     - 466
     - 466
   label: 目次
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0020_X_000-mulu-3
     span:
-    - front
+    - body
     - 1072
     - 1072
   label: 科南本大般涅槃經
@@ -65,4 +65,4 @@ table_of_contents:
   label: 科南本大般涅槃經
   type: juan
   level: 1
-hash: sha256:f609b9b8c5c97d98e2e0293daad12276070eca5995b72682420e046538126abc
+hash: sha256:84b022056342bb4d312df04e4bdcac879b298026e2e8bf00d33466928bb20ec7

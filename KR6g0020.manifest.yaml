@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:59209f6726619f3b30bc8c5f4edc47b25834bd00794458b3423533c7ddfdd7fa'}
+  - {seq: 0, filename: KR6g0020_000.yaml, hash: 'sha256:e33cc27ccf2fea8bbd9c805a68e3b2e849db711e3189420d6720f62e69dfa664'}
   - {seq: 1, filename: KR6g0020_001.yaml, hash: 'sha256:d98365beaf7e9c965238bcf3859fde327782d74532899ef447aef6457039defe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:56714a472f3d5482fb78f084a6ea04cbfe5d60d286051e19c924de00923ed9de'}
+  - {seq: 0, role: markers, filename: assets/KR6g0020_000.markers.yaml, hash: 'sha256:94ee747bfc9236400dd1204896ee2e5792f4b92dc54765ce7722132800536f9c'}
   - {seq: 1, role: markers, filename: assets/KR6g0020_001.markers.yaml, hash: 'sha256:f50537a59860c238bdb2a562984961984b535e4f61ff74955cb63892006fc206'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6g0020_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 663-A 科南本涅槃經序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0020_X_000-mulu-2
     span:
-    - front
+    - body
     - 466
     - 466
   label: 目次
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0020_X_000-mulu-3
     span:
-    - front
+    - body
     - 1072
     - 1072
   label: 科南本大般涅槃經
@@ -67,7 +67,7 @@ table_of_contents:
   label: 科南本大般涅槃經
   type: juan
   level: 1
-hash: sha256:c61dcb3c637b681099064c21df6306b355f225f600696b675d82d24e951e2e9c
+hash: sha256:9bfebe6513e96bfc738ad2e5f5fcf6505a165cd5e74be9f7e60b031d0263e3cd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
